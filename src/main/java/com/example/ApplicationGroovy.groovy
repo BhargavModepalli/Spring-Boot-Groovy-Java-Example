@@ -7,12 +7,14 @@ import org.springframework.boot.autoconfigure.jms.JmsAutoConfiguration
 import org.springframework.context.annotation.ComponentScan
 import org.springframework.context.annotation.Configuration
 
-@Configuration
+/*@Configuration
 @EnableAutoConfiguration(exclude = [DataSourceAutoConfiguration.class, JmsAutoConfiguration.class])
-@ComponentScan(basePackages = "com.example")
+@ComponentScan(basePackages = "com.example")*/
 class ApplicationGroovy {
- static void main(String[] args) {
+/*
+static void main(String[] args) {
         SpringApplication.run(ApplicationGroovy.class, args)
-    }
+    }*/
+
 
 }

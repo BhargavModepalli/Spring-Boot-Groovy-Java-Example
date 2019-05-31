@@ -1,4 +1,3 @@
-/*
 package com.example;
 
 import org.springframework.boot.SpringApplication;
@@ -18,4 +17,3 @@ public class ApplicationJava {
 	}
 
 }
-*/
